@@ -145,6 +145,3 @@ Slope (w1): 4.25
 
 #### do_regression
 ![Regression Diagram](regression.png "Classification Model Diagram")
-
-![clipboard![clipboard1.png](../../../../../../private/var/folders/lh/dqvjtzr50zd4r1_3q7nkm67w0000gn/T/clipboard1.png).png](../../../../../../private/var/folders/lh/dqvjtzr50zd4r1_3q7nkm67w0000gn/T/clipboard.png)
-![clipboard2.png](../../../../../../private/var/folders/lh/dqvjtzr50zd4r1_3q7nkm67w0000gn/T/clipboard2.png)
