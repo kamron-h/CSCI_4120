@@ -140,9 +140,11 @@ Slope (w1): 4.25
 ```
 
 ---
+#### get_averages
+![Means Diagram](means.png "Classification Model Diagram")
 
-### License
-This project is open-source and free to use. Feel free to modify and share as needed.
+#### do_regression
+![Regression Diagram](regression.png "Classification Model Diagram")
 
-### Author
-This project was developed to demonstrate basic data manipulation and linear regression in Python using `pandas` and `numpy`.
+![clipboard![clipboard1.png](../../../../../../private/var/folders/lh/dqvjtzr50zd4r1_3q7nkm67w0000gn/T/clipboard1.png).png](../../../../../../private/var/folders/lh/dqvjtzr50zd4r1_3q7nkm67w0000gn/T/clipboard.png)
+![clipboard2.png](../../../../../../private/var/folders/lh/dqvjtzr50zd4r1_3q7nkm67w0000gn/T/clipboard2.png)
